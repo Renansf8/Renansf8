@@ -1,9 +1,8 @@
 ## Olá, sejam Bem-vindos  👋   
 Eu sou **Renan Santiago** 👨‍💻!
 
-- Sou um ex Engenheiro Civil, em transição de carreira para me tornar um Desenvolvedor web Fullstack 🚀;
+- Sou um ex Engenheiro Civil, agora Desenvolvedor web Fullstack 🚀;
 - Apaixonado por Tecnologia 💻;
-- Atualmente estudando Desenvolvimento web Fullstack na Trybe 📝;
 - Prática, prática, prática... 💪
 -  [Linkedin](https://www.linkedin.com/in/renanferreira8). <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' width='20px' height='20px'/>   
 
