@@ -1,5 +1,5 @@
-## Olá, sejam Bem-vindos  👋   
-Eu sou **Renan Santiago** 👨‍💻!
+## Hello, welcome  👋   
+I'm **Renan Santiago** 👨‍💻!
 
 - Fullstack Web Developer 🚀;
 - Passionate about Technology 💻;
