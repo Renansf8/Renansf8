@@ -1,9 +1,9 @@
-## Hello, welcome  👋   
-I'm **Renan Santiago** 👨‍💻!
+## Olá, seja bem-vindo  👋   
+Eu sou **Renan Santiago** 👨‍💻!
 
-- Fullstack Developer 🚀;
-- Passionate about Technology 💻;
-- Practice, practice, practice... 💪
+- Desenvolvedor Fullstack 🚀;
+- Apaixonado por tecnologia 💻;
+- Prática, Prática, Prática... 💪
 -  [Linkedin](https://www.linkedin.com/in/renanferreira8). <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' width='20px' height='20px'/>   
 
 ## My Skills
